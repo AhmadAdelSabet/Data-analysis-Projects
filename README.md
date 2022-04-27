@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning with python and Data visualisation 
 - 💞️ I’m looking to collaborate on Data science projects
-- 📫 How to reach me ...
+- 📫 Reach me on ahmed.adel.sabet@hotmail.com
 
 <!---
 AhmadAdelSabet/AhmadAdelSabet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
