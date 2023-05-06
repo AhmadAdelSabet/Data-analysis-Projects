@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmadAdelSabet
-- :sparkles: I'm working on ML project for loan prediction 
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning with python and Data visualisation 
+- :sparkles:  
+- 👀 
+- 🌱 
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 Reach me on ahmed.adel.sabet@hotmail.com
 
